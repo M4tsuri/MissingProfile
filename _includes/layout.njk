@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="missing.min.css">
+  <link rel="stylesheet" href="missing-prism.min.css">
+  <title>M4tsuri's Homepage</title>
+</head>
+<body>
+    <main>
+        <nav class="breadcrumbs" aria-label="Breadcrumbs"><ol>
+            {% for info in navi %}
+                <li><a href={{ info.url }}>{{ info.name }}</a></li>
+            {% endfor %}
+        </ol></nav>
+        {{ content | safe }}
+    </main>
+</body>
+</html>
