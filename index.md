@@ -11,7 +11,7 @@ navi:
 
 # M4tsuri
 
-I'm a senior student major in cybersecurity in Wuhan University. I'm currently learning cryptography and blockchain.
+I'm a senior student majoring in cybersecurity in Wuhan University. I'm currently learning cryptography and blockchain security.
 
 ## Publications
 
