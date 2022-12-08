@@ -7,6 +7,10 @@ navi:
       url: https://m4tsuri.io
     - name: Github
       url: https://github.com/M4tsuri
+    - name: Steam
+      url: https://steamcommunity.com/id/m4tsuri
+    - name: m4tsuri.eth
+      url: https://etherscan.io/address/0x8f28da6ff26e782cb0495e581fadbcec320a4769
 ---
 
 # M4tsuri
@@ -17,9 +21,8 @@ I'm a senior student majoring in cybersecurity in Wuhan University. I'm currentl
 
 Sorry that I have no publications yet.
 
-## Contact
+## Contacts
 
 - E-mail: [me@m4tsuri.com](mailto:me@m4tsuri.com)
 - Discord: [M4tsuri#0001](https://discord.com/users/M4tsuri#0001)
-- Steam Profile: [_m4tsuri](https://steamcommunity.com/id/m4tsuri)
 
