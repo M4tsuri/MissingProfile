@@ -24,5 +24,5 @@ Sorry that I have no publications yet.
 ## Contacts
 
 - E-mail: [me@m4tsuri.com](mailto:me@m4tsuri.com)
-- Discord: [M4tsuri#0001](https://discord.com/users/M4tsuri#0001)
+- Discord: [M4tsuri#1528](https://discord.com/users/M4tsuri#1528)
 
